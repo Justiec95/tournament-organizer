@@ -23,6 +23,7 @@
     "brackets-manager": "^1.5.8",
     "class-variance-authority": "^0.6.0",
     "clsx": "^1.2.1",
+    "cross-env": "^7.0.3",
     "date-fns": "^2.30.0",
     "date-fns-tz": "^2.0.0",
     "next": "13.4.3",

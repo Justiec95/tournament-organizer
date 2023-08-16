@@ -15,7 +15,7 @@ export default function LoginPage() {
           <h1 className="text-2xl font-bold tracking-tight text-white">
             Log in to{" "}
             <span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-pink-500">
-              Astrant.gg
+              Organize
             </span>
           </h1>
         </div>
